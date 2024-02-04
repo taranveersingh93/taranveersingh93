@@ -24,7 +24,7 @@
 
 Hey! I'm Taranveer. I can work on code all day everyday and log documentation wherever needed.
 
-I’ve always been a doting problem solver with predictable consistency. I have created frontend projects with Javascript/React and have created backend projects with C# .NET MVC. While familiar with a variety of programming languages, I’m happy to learn more to be considered of value to your team.
+I've always been a dedicated problem solver with a consistent approach. I've created frontend projects with JavaScript/React and backend projects with C# .NET MVC. While I'm familiar with a variety of programming languages, I'm eager to learn more to be considered valuable to your team.
 
 [bootstrap]: https://img.shields.io/badge/Bootstrap%20-%20black?style=for-the-badge&logo=bootstrap&logoColor=white&color=%237952B3
 [aspNet]: https://img.shields.io/badge/ASP.NET%20MVC%20-%20black?style=for-the-badge&logo=dotnet&logoColor=white&color=%23512bd4
